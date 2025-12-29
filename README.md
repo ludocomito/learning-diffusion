@@ -28,8 +28,12 @@ Discover how to work in compressed latent spaces using Variational Autoencoders 
 ### 6. Gradient-Based Optimization
 Implement gradient-based steering mechanisms that can guide generation toward specific properties or constraints at inference time without retraining the model.
 
+### 7. Diffusion Energy-Based Modelling
+Learn how the concept of energy can be applied to diffusion models by tweaking a simple architecture and how to score and filter generated samples by quality.
+
+
 ## Next steps
-It would be interesting to explore more advanced concepts like Diffusion Transformers, DDPM and Optimal Transport.
+It would be interesting to explore more advanced concepts like Diffusion Transformers and Optimal Transport.
 
 ## Requirements
 
