@@ -33,7 +33,7 @@ Learn how the concept of energy can be applied to diffusion models by tweaking a
 
 
 ## Next steps
-It would be interesting to explore more advanced concepts like Diffusion Transformers and Optimal Transport.
+It would be interesting to explore more advanced concepts like Diffusion Transformers, Optimal Transport and Multi-Objective Optimization.
 
 ## Requirements
 
@@ -70,7 +70,7 @@ The notebooks use the MNIST dataset for image generation tasks. The dataset will
 
 ## License
 
-This is an educational project. Feel free to use and modify the code for learning purposes.
+Feel free to use and modify the code. 
 
 ## Acknowledgments
 
